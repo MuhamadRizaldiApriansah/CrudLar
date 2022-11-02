@@ -30,13 +30,13 @@
         <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
             <li class="nav-item">
-                <a class="nav-link active" href="/">Berita</a>
+                <a class="nav-link active" href="/berita">Berita</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="/">Kontak</a>
+                <a class="nav-link" href="/kontak">Kontak</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="/">Profile</a>
+                <a class="nav-link" href="/profile">Profile</a>
             </li>
         </ul>
         </div>
